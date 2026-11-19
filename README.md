@@ -1,4 +1,4 @@
-![QuantumTransduction-Lab cover](assets/cover.png)
+![QuantumTransduction-Lab cover](QuantumTransduction-Lab%20cover.png)
 
 # QuantumTransduction-Lab 🔄⚛️
 
